@@ -1,0 +1,6 @@
+By obtaining a copy of the software and its associated documentation files (referred to as "Software"),
+individuals are granted permission, free of charge,
+to utilize the Software without any limitations.
+This includes the rights to use, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software.
+Furthermore, individuals who receive
+the Software are allowed to utilize it under the specified conditions.
